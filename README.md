@@ -1,6 +1,6 @@
 [![MasterHead](https://c.tenor.com/x0PBTXM6LrAAAAAC/banner-gif-welcome.gif)]
 <h1 align="center">Hi 👋, I'm Majindra Bhashana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majindrabhashana&label=Profile%20views&color=0e75b6&style=flat" alt="majindrabhashana" /> </p>
 
